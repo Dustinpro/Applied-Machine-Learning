@@ -6,4 +6,7 @@ HW3: PCA from scratch for Smoothing Noises on Iris Dataset \
 HW4: Principal Coordinate Analysis (NOT PCA) on CIFAR-10 \
 HW5: K-means \
 HW6: Regression on Boston Housing \
-Collaborated with Zachary from HW5 
+HW7: Regression models and Regularization \
+\
+Collaborated with Zachary from HW5 \
+Final Letter Grade: A
