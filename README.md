@@ -7,6 +7,8 @@ HW4: Principal Coordinate Analysis (NOT PCA) on CIFAR-10 \
 HW5: K-means \
 HW6: Regression on Boston Housing \
 HW7: Regression models and Regularization \
+HW8: Image segmentation using EM \
 \
 Collaborated with Zachary from HW5 \
+Collaborated with Eddie from HW8 \
 Final Letter Grade: A
